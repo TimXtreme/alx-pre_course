@@ -1,2 +1,1 @@
-Updating my README.md 
-git commit -m
+Updating my README.md
